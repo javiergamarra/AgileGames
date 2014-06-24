@@ -1,0 +1,1 @@
+Colaboración con chocolatinas, saltar todos, uno o ninguno (suma cero, problema del prisionero).
