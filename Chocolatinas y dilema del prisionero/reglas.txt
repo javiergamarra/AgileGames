@@ -1,0 +1,13 @@
+Equipos de 3-4 personas, un portavoz.
+
+Las reglas son sencillas:
+* Cada equipo recibe 5 monedas de chocolate.
+* Los portavoces se colocan en fila mirando a los equipos.
+* Después de una indicación (3, 2, 1) los portavoces pueden quedarse quietos o saltar hacia delante.
+* Si nadie salta, todos los equipos reciben una moneda de la banca.
+* Si todos saltan, todos los equipos dan una moneda a la banca.
+* Si alguno de ellos salta, todos los equipos que no saltaron les dan una moneda.
+* En caso de que varias personas salten (no todas), cada uno de ellos recibe una moneda de todas las personas que no saltaron.
+
+
+Colaboración con chocolatinas, saltar todos, uno o ninguno (suma cero, problema del prisionero).
