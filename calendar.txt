@@ -3,6 +3,6 @@
 3 semana: ball flow game
 4 semana: dar vuelta sillas
 5 semana: gestos y equipos
-6 semana: carrera comunicación
+6 semana: carrera comunicaciÃ³n
 7 semana: cartas con reglas
 8 semana: ordenar cartas
