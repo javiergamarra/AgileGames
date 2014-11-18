@@ -1,0 +1,1 @@
+Colaboración moviendo sillas (dar la vuelta, ponerlas en parejas, ponerlas en círculo).
