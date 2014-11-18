@@ -1,4 +1,4 @@
-Sillas no musicales
+Lego Serious Play
 ======
 **Tiempo**: Entre 45 minutos y 1 hora.
 
