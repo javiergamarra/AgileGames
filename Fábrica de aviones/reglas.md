@@ -3,6 +3,7 @@ Fábrica de aviones
 **Tiempo**: 35-40 minutos
 
 **Materiales**: Papel, lápiz, tijeras, cinta, reloj.
+
 **Instrucciones**: 
 
 Este juego es muy divertido para comprender cómo priorizar el uso del sistema de Lean "cubo" y conceptos ágiles y la gestión del riesgo con la estrategia más conocida. Los participantes también aprenderán el poder de los radiadores de la información y retrospectivo.
@@ -16,7 +17,7 @@ Este juego es muy divertido para comprender cómo priorizar el uso del sistema d
 
 Cada avión debe volar y ser decorado.
  
-**Primera Ronda **
+**Primera Ronda**
 Cada equipo dispone de 5 minutos para echar un vistazo a el tipo anterior de aviones y agruparlos de acuerdo a la siguiente tabla:
 
 * Plano Básico - Fácil de construir, fácil de hacer volar, la decoración estándar.
@@ -29,7 +30,7 @@ Cada grupo debe escribir la estrategia en una bandera y se adhieren a la pared (
 El moderador debe explicar que si los cambios de estrategia, entonces tiene que
 reflejarse en la bandera tan pronto como sucede.
  
-**SEGUNDA RONDA **
+**SEGUNDA RONDA**
 El equipo tiene 20 minutos para hacer la mayor cantidad de aviones que pueden. Cada máquina de volar terminado y decorado tiene que estar pegado a la Actuación,, zona de alta incertidumbre Emocionante básico.
 Final del juego
 El moderador detiene el reloj y:
