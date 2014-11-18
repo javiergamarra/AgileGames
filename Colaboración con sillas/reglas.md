@@ -1,4 +1,4 @@
-Sillas no musicales
+Colaboración con sillas
 ======
 **Tiempo**: Entre 10 minutos y 15 minutos.
 
