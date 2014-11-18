@@ -1,1 +1,0 @@
-Colaboración ordenando cartas, por equipos, se deja caer una baraja al suelo y tienen que ordenarlas. Se repite varias veces para que piensen estrategias y a un miembro del grupo se le dan comportamientos problemáticos para ver cómo reaccionan.
