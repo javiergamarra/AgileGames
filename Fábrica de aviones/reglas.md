@@ -2,40 +2,38 @@ Fábrica de aviones
 ======
 **Tiempo**: 35-40 minutos
 
-**Materiales**: Papel, lápiz, tijeras, cinta, reloj.
+**Materiales**: Papel (A4), lápiz, tijeras, cinta adhesiva y reloj.
 
 **Instrucciones**: 
+Este juego nos permite comprender algunos conceptos de Agile, cómo manejar situaciones de riesgo y nos pone ante situaciones en las que debemos priorizar.
 
-Este juego es muy divertido para comprender cómo priorizar el uso del sistema de Lean "cubo" y conceptos ágiles y la gestión del riesgo con la estrategia más conocida. Los participantes también aprenderán el poder de los radiadores de la información y retrospectivo.
-
-* Los equipos se crean (de 3 a 5 personas cada uno)
-* Cada uno recibe de papel, un lápiz y cinta.
-* El moderador informa de que deben crear como muchos papel aviones -de los siguientes tipos: como les sea posible:
-* 1. 2 alas Jet (5 puntos cada uno) 
-* 2. OVNI (50 puntos cada una)
-*	3. Tubular chorro (5 puntos cada uno) 4. 4-Wings plano (20 puntos cada uno)
+* 1- Se crean los equipos (de 3 a 5 personas cada uno).
+* 2. Cada equipo recibe papel, un lápiz y cinta adhesiva.
+* 3. El facilitador informa de que deben crear tantos aviones de papel como les sea posible, incluyendo los siguientes tipos:
+* a. Aviones tipo Jet de 2 alas (5 puntos cada uno).
+* b. OVNIs (50 puntos cada una).
+*	c. Aviones circulares (5 puntos cada uno). http://www.instructables.com/id/Tubular-paper-airplane/
+*	d. Aviones con 4 alas (20 puntos cada uno).
 
 Cada avión debe volar y ser decorado.
  
 **Primera Ronda**
-Cada equipo dispone de 5 minutos para echar un vistazo a el tipo anterior de aviones y agruparlos de acuerdo a la siguiente tabla:
+Cada equipo dispone de 5 minutos para analizar los diferentes tipos de aviones a construir y agruparlos de acuerdo a la siguiente tabla:
 
-* Plano Básico - Fácil de construir, fácil de hacer volar, la decoración estándar.
-* Plano Rendimiento - Mediana fácil de construir y fácil de hacerlo volar, la decoración estándar.
-* Plano Emocionante - Mediano fácil de construir, a medio fácil para hacerlo volar, decoración super-cool.
-* Desconocido cómo construirla o hacerlo volar, decoración desconocido - Plano de alta incertidumbre.
+* Avión Básico - Fácil de construir, fácil de hacer volar, y con decoración estándar.
+* Avión Funcional - Construcción de dificultad media, fácil de hacerlo volar, y con decoración estándar.
+* Avión Emocionante - Construcción de dificultad media, de dificultad media para hacerlo volar, y con decoración super-cool.
+* Avión de gran incertidumbre - Desconocemos cómo construirlo o hacerlo volar, ni cómo decorarlo.
 
-Cada grupo debe escribir la estrategia en una bandera y se adhieren a la pared (es decir, nos harán de 4 planos básicos en primer lugar, hacer que 5 de cada uno, etc).
+En función de este análisis cada grupo debe escribir la estrategia a seguir en un post-it que pondrán en la pared (por ejemplo, haremos 4 aviones básicos en primer lugar y luego uno de cada tipo, o intentaremos la construcción simultanea de uno de dos de cada tipo, etc).
 
-El moderador debe explicar que si los cambios de estrategia, entonces tiene que
-reflejarse en la bandera tan pronto como sucede.
+Si dureante el transcurso del juego se produce algún cambio de estrateria el equipo debe reflejarlo inmediatamente en la pared con un nuevo post-it.
  
 **SEGUNDA RONDA**
-El equipo tiene 20 minutos para hacer la mayor cantidad de aviones que pueden. Cada máquina de volar terminado y decorado tiene que estar pegado a la Actuación,, zona de alta incertidumbre Emocionante básico.
-Final del juego
-El moderador detiene el reloj y:
+CadA equipo tiene 20 minutos para hacer la mayor cantidad de aviones que pueda. Cada avión debe volar, estar decorado y ser estar clasificado en alguna de las cuatro categorías indicadas en la ronde primera.
 
-* Lee las diferentes estrategias.
-* Discute con los equipos de lo que podría haberse hecho de una manera diferente.
-* Cuenta sólo los puntos del vuelo y máquinas decoradas.
-El equipo con el mayor número de puntos gana.
+**FINAL DEL JUEGO**
+El moderador detiene el reloj y:
+* - Lee las diferentes estrategias.
+* - Discute con los equipos de lo que podría haberse hecho de una manera diferente.
+* - Suma los puntos de los aviones completados. El equipo con el mayor número de puntos gana.
