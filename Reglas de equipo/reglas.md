@@ -9,7 +9,7 @@ Reglas de equipo
 **Instrucciones**:
 * Se pondrán unos montones de cartas sobre la mesa. 
 * Cada equipo recibirá instrucciones de lo que tiene que hacer con las cartas.
-* El facilitador pondrá el cronómetro durante 1 minutos. Una vez transcurrido ese tiempo. Los equipos se volverán a reunir para hacer retrospectiva de lo que ha pasado.
+* El facilitador pondrá el cronómetro durante 1 minuto. Una vez transcurrido ese tiempo. Los equipos se volverán a reunir para hacer retrospectiva de lo que ha pasado.
 * El objetivo del equipo es conseguir lo que se les ha pasado como instrucciones.
 
 **Reglas**:
