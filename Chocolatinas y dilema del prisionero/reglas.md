@@ -1,4 +1,8 @@
-Equipos de 3-4 personas, un portavoz.
+Chocolatinas y dilema del prisionero
+======
+**Materiales**: Equipos de 3-4 personas, un portavoz.
+
+**Reglas**
 
 Las reglas son sencillas:
 * Cada equipo recibe 5 monedas de chocolate.
@@ -10,15 +14,17 @@ Las reglas son sencillas:
 * Si alguno de ellos salta, todos los equipos que no saltaron les dan una moneda.
 * En caso de que varias personas salten (no todas), cada uno de ellos recibe una moneda de todas las personas que no saltaron.
 
+**Iteraciones**
+
 Se hacen 4-5 rondas sin hablar entre los equipos y en la última (o dos últimas) se deja a los portavoces un minuto para que intenten pactar una estrategia común.
 
-Preguntas:
+**Preguntas**:
 * ¿Por qué habéis actuado así?
 * Los qué no habéis saltado nunca/algunas veces, ¿por qué?
 * ¿Los qué siempre saltabáis...?
 * Cuando habéis hablado los portavoces, ¿qué ha pasado?
 
-Temas a tratar:
+**Temas a tratar**:
 * Juegos/problemas de suma 0 (éste no lo es si no tenemos en cuenta a la banca).
 * Confianza en el otro equipo.
 * Dilema del prisionero.
