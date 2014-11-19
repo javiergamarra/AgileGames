@@ -2,7 +2,7 @@ Gestos estropeados
 ======
 **Tiempo**: Entre 5 y 10 minutos.
 
-**Materiales**: Personas
+**Materiales**: Ninguno, sólo los jugadores.
 
 **Instrucciones**:
 * Jugamos al teléfono estropeado en fila india. El facilitador hace una serie de gestos y el último de la fila tiene que llamar al que tiene delante para transmitirle el gesto.
