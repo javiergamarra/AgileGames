@@ -7,3 +7,6 @@ Reglas de equipo
 * Sentimientos: Frustración, enfado,... sobre todo por cómo actuaba la gente.
 * Entra alguien nuevo al equipo... con sus reglas preconcebidas.
 * No entendemos cómo actúa la gente, cada uno con sus ideas.
+* Se movían según las reglas interiorizadas
+* Caos desde el primer minuto
+* Asumían que el resto de personas estaban equivocadas
