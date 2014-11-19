@@ -3,21 +3,21 @@ Comunication's race
 **Tiempo**: Entre 15-30 min.
 
 **Materiales**:
-* Pedazo de cartón de cualquier caja no utilizado (~ 20cm x 20cm ~), marcadores, tijeras, ~ 10 hilos (alrededor de 60 / 80cm cada uno), gran hoja de papel
+* Trozo de cartón cuadrado (20cm x 20cm aprox), rotuladores, tijeras, hilos de unos 60-80cm (tantos como participantes, 5-15), hoja de papel grande (mínimo A3).
 
 **Instrucciones**:
-Necesita hacer una cierta preparación en primer lugar:
-* Hacer un agujero en el centro de la pieza de cartón con su tijera. Usted necesita estar seguro de que la pluma es capaz de ir allí y no está disminuyendo.
-* Haga pequeña perforación en cada lado del cuadrado de cartón. Usted tiene que hacer la mayor cantidad perforación como participantes. (Entre 5 y 15 debería estar bien).
-* Conecte un hilo a cada pequeña perforación.
-* Diseña tu carrera en la hoja de papel grande.
+Antes de comenzar el juego se requiere de cierta preparación, esta es:
+* Hacer un agujero en el centro del cuadrado de cartón con las tijeras en el que quede encajado un rotulador.
+* Hacer pequeños agujeros a los largo de los bordes del cuadrado de cartón, tantos como participantes (de 5 a 15 sería lo ideal).
+* En cada uno de agujeros se ata uno de los hilos.
+* En el A3, con un rotulador de color diferente al incrustado en el cartón, se dibuja un circuito circular de unos 4-5 cm. de anchura.
 
 **¿Cómo se juega:**
-* Cada miembro del equipo tiene que tirar de un hilo y coloque el lápiz en la línea de salida.
-* Tienen que hacer un "lazo limpio". Significa, no punto en blanco, y la línea no es capaz de salir de la concepción. Si uno de estos impedimentos sucede, que necesitan para volver a empezar de nuevo. Para evitar confusiones, se puede cambiar el color del marcador.
-* Para aumentar la dificultad y la diversión, usted puede diseñar razas o laberintos locos. Depende de usted.
-* Es un juego que se podía jugar varias veces durante el año con el mismo equipo, sólo tendrá que cambiar el diseño (la raza o el laberinto). La diversión es garantía.
+* Cada participante tirará de uno de los hilos, de manera que entre todos se sujete el cartón con el rotulador.
+* Se coloca el retulador en un punto del circuito considerado "la salida".
+* Todos los participantes deben colaborar para realizar un trazo continuo (no se permite ir a saltos) a lo largo del circuito, y sin salirse, si esto ocurririera se debería volver a empezar.
 
 **Variaciones**:
-* Usted podría diseñar cualquier lugar al que desea agregar complejidad y generar frustración al principio
-* Se podría añadir también regalos cuando llegan a la final, la última vez que di a cada miembro de una tarjeta postal con una gran BRAVO.
+* Para aumentar la dificultad se pueden diseñar nuevos circuitos con diferentes formas o incluir marcas en éstos que representarían ostáculos.
+* Se puede repetir el juego a lo largo de un año para ver como evoluciona la compenetración del equipo.
+* Una buena idea para fomentar la motivación es premiar al grupo con detalles como puede ser una tarjeta con una felicitación u otro regalo sencillo.
