@@ -18,7 +18,7 @@ Lego Serious Play
 * Conversación de un equipo: “vamos a hacer algo” “¿para qué?” “para parecer que estamos haciendo algo”
 * No entienden las historias, suponen lo que significa y no preguntan
  
-**TERCER SPRINT**ç
+**TERCER SPRINT**
 
 * En el TERCER sprint empiezan a preguntar y a priorizar las historias por valor!!
 * Quitan aquellas historias que no podrán abordar
