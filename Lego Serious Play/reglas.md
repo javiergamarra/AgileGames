@@ -16,6 +16,6 @@ Lego Serious Play
 * Al final de cada sprint los equipos tienen que dejar de construir automáticamente.
 
 **Iteraciones**:
-* En la primera iteración el equipo recibe un número fijo de historias e intentar hacer una entrega al facilitar.
+* En la primera iteración el equipo recibe un número fijo de historias e intentar hacer una entrega al facilitador.
 * A mitad de la segunda iteración, recibe más historias.
 * Repita el proceso... hasta que el equipo consiga encontrar la estrategia ganadora. 
