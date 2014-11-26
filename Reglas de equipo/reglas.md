@@ -1,19 +1,16 @@
 Reglas de equipo
 ======
-**Tiempo**: Entre 15 y 20 minutos.
+**Tiempo**: Entre 10 y 15 minutos.
 
 **Materiales**:
-* Varias baraja de cartas.
-* Se formaran 2 o más equipos de unas 3 personas cada uno.
+
+* Varias barajas de cartas.
+* Equipos de unas 3-4 personas cada uno.
 
 **Instrucciones**:
-* Se pondrán unos montones de cartas sobre la mesa. 
-* Cada equipo recibirá instrucciones de lo que tiene que hacer con las cartas.
-* El facilitador pondrá el cronómetro durante 1 minuto. Una vez transcurrido ese tiempo. Los equipos se volverán a reunir para hacer retrospectiva de lo que ha pasado.
-* El objetivo del equipo es conseguir lo que se les ha pasado como instrucciones.
 
-**Reglas**:
-* Durante el minuto de la prueba las personas no pueden hablar entre ellas.
-
-**Iteraciones**:
-* Repita el proceso hasta que los miembros del equipo se den cuenta de que no tiene sentido seguir así. 
+* Cada equipo recibirá una baraja y deberán leer durante 1 minuto las instrucciones.
+* Cada 30 segundos (guiados por el facilitador) se repartiran las cartas, se descubrirá el resultado y rotarán las personas a las que les corresponda dependiendo de las reglas del juego.
+* Haced una rotación de prueba SIN HABLAR para que entiendan el funcionamiento básico.
+* Varias rondas (8-10) para ver si se dan cuenta del objetivo del juego.
+* Durante el tiempo de la prueba las personas no pueden hablar entre ellas.
