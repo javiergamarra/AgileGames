@@ -1,7 +1,7 @@
 AgileGames
 ==========
 
-Some agile games
+Algunos juegos ágiles
 
-Description finished:
+Descripción terminada:
 * Chocolatinas y el dilema del prisionero
